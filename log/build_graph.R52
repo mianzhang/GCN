@@ -1,0 +1,4 @@
+06/04/2020 11:45:25 {'earn': 0, 'acq': 1, 'trade': 2, 'crude': 3, 'money-fx': 4, 'interest': 5, 'money-supply': 6, 'ship': 7, 'sugar': 8, 'coffee': 9, 'gold': 10, 'gnp': 11, 'cpi': 12, 'cocoa': 13, 'grain': 14, 'jobs': 15, 'reserves': 16, 'alum': 17, 'rubber': 18, 'ipi': 19, 'copper': 20, 'iron-steel': 21, 'nat-gas': 22, 'bop': 23, 'veg-oil': 24, 'retail': 25, 'tin': 26, 'cotton': 27, 'housing': 28, 'livestock': 29, 'wpi': 30, 'orange': 31, 'gas': 32, 'pet-chem': 33, 'lei': 34, 'strategic-metal': 35, 'zinc': 36, 'meal-feed': 37, 'carcass': 38, 'income': 39, 'lumber': 40, 'heat': 41, 'instal-debt': 42, 'lead': 43, 'cpu': 44, 'dlr': 45, 'nickel': 46, 'fuel': 47, 'potato': 48, 'jet': 49, 'tea': 50, 'platinum': 51}
+06/04/2020 11:45:25 num of words: 8892
+06/04/2020 11:51:26 num of nodes: 17992
+06/04/2020 11:51:26 num of edges: 2161138
