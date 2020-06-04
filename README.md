@@ -1,5 +1,5 @@
 # GCN
-Pytorch implementation to paper "Graph Convolutional Networks for Text Classificatio".
+Pytorch implementation to paper "Graph Convolutional Networks for Text Classification".
 ## Running
 You can run the whole process very easily. Take the R8 corpus for example,
 
