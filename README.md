@@ -26,8 +26,8 @@ You can run the whole process very easily. Take the R8 corpus for example,
 
 -|Dataset|Accuracy
 :-:|:-:|:-:
-Original|R8|97.07
-This Implementation|R8|96.21
+Original|R8|97.07%
+This Implementation|R8|96.21%
 
 -|Dataset|Accuracy
 :-:|:-:|:-:
