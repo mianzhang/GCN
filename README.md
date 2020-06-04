@@ -18,7 +18,18 @@ You can run the whole process very easily. Take the R8 corpus for example,
 ./scripts/R8.sh build_graph
 ```
 
-### Step 4: Train.
+### Step 4: Train and inference.
 ```bash
 ./scripts/ontonotes.sh train
 ```
+## Performance Comparision
+
+-|Dataset|Accuracy
+:-:|:-:|:-:
+Original|R8|97.07
+This Implementation|R8|96.21
+
+-|Dataset|Accuracy
+:-:|:-:|:-:
+Original|R52|93.56%
+This Implementation|R52|92.52%
