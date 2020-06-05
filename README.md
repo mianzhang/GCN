@@ -20,7 +20,7 @@ You can run the whole process very easily. Take the R8 corpus for example,
 
 ### Step 4: Train and inference.
 ```bash
-./scripts/ontonotes.sh train
+./scripts/R8.sh train
 ```
 ## Performance Comparision
 
